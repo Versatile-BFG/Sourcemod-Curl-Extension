@@ -1,5 +1,5 @@
 # Sourcemod-Curl-Extension
-[![Build Status](https://api.travis-ci.org/Versatile-BFG/Sourcemod-Curl-Extension.svg?branch=master&status=created)](https://travis-ci.org/Versatile-BFG/Sourcemod-Curl-Extension)
+[![Build Status](https://api.travis-ci.org/Versatile-BFG/Sourcemod-Curl-Extension.svg?branch=master)](https://travis-ci.org/Versatile-BFG/Sourcemod-Curl-Extension)
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/Sourcemod-Curl-Extension/sourcemod-curl-extension?branch=master&svg=true)](https://ci.appveyor.com/project/cyken/sourcemod-curl-extension)
 
